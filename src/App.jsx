@@ -96,7 +96,7 @@ const INITIAL_VIDEOS = [
   },
   {
     id: "vid_2",
-    title: "Advancedxxx React Patterns",
+    title: "xxAdvanced React Patterns",
     description: "Master the art of component composition and hooks.",
     thumbnail: "", // Empty thumbnail to test random frame generation
     videoUrl:
